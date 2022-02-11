@@ -1,10 +1,14 @@
 {
   "name": "node-measure-text-width",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Measure text width in Node.js environment.",
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanai/node-measure-text-width.git"
   },
   "keywords": [
     "canvas",
